@@ -1,0 +1,6 @@
+.env
+.DS_Store
+service-account.json
+.ipynb_checkpoints
+*.pyc
+__pycache__

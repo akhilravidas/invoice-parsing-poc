@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "didero-full-stack-app"
+version = "0.1.0"
+description = ""
+authors = ["Akhil Ravidas <ar@mod0.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.29.0"
+openai = "^1.5.0"
+python-dotenv = "^1.0.0"
+pdf2image = "^1.16.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
